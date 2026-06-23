@@ -12,7 +12,7 @@ A cool, interactive, and fun space flashcards website for anyoen who wants to le
 * Check out the demo link!
 
 ## Demo
-
+https://astronautag.github.io/planets-cards/
 
 ## GitHub repository
 https://github.com/AstronautAG/planets-cards
