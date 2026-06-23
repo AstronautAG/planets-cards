@@ -15,6 +15,7 @@ A cool, interactive, and fun space flashcards website for anyoen who wants to le
 
 
 ## GitHub repository
+https://github.com/AstronautAG/planets-cards
 
 ## Inspiration
 Space facts can be very unusual, yet intriguing. For example, one fact is that even though Mars is now a rust-colored desert, it was once like Earth. I find these facts very interesting, so I created a website that is both interesting and engaging for all users, even users without a scientific background.
